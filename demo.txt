@@ -1,1 +1,3 @@
 Here is some text we are adding to into demo.txt.
+
+Here is more text we added from the local repo.
